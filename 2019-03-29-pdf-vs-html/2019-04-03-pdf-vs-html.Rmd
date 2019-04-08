@@ -2,13 +2,10 @@
 title: 'PDF vs HTML : Extracting information from a Google Form with R'
 author: "Benjamin Louis"
 date: '2019-04-03'
-categories: Data-wrangling
-banner: img/banners/pdf-vs-html.png
-tags:
-- pdftools
-- rvest
-- Google From
-Summary: test summary
+tags: ["pdftools", "rvest", "Google From"]
+categories: ["Data-wrangling"]
+banner: 'img/banners/pdf-vs-html.png' 
+Summary: 'test summary'
 ---
 
 ```{r setup, include=FALSE}
