@@ -6,6 +6,7 @@ tags: ["pdftools", "rvest", "Google From"]
 categories: ["Data-wrangling"]
 banner: 'img/banners/pdf-vs-html.png' 
 Summary: 'test summary'
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
